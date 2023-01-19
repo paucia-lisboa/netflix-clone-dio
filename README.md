@@ -16,6 +16,6 @@ Projeto desenvolvido durante o Bootcamp Capgemini Fullstack Java and Angular, fo
 
 By Paucinha!!!
 
-https://www.linkedin.com/in/paucia-lisboa/
+[![Linkedin: paucia](https://img.shields.io/badge/Paucia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paucia-lisboa/)](https://www.linkedin.com/in/paucia-lisboa/)
 
 ![GitHub watchers](https://img.shields.io/github/watchers/paucia-lisboa/netflix-clone-dio?style=social)
