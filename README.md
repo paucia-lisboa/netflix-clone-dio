@@ -8,24 +8,14 @@ Neste projeto prático iremos desenvolver uma solução de e-commerce com a arqu
 Apache Kafka e garantir a compatibilidade entre da comunicação dos microsserviços com Schema Registry. Para isso, programaremos em Java utilizando a stack do 
 Spring (Spring Boot, Spring Cloud Streams).
 
+##
 
+Projeto desenvolvido durante o Bootcamp Capgemini Fullstack Java and Angular, fornecido pela [**DIO**](https://www.dio.me/)
 
+##
 
+By Paucinha!!!
 
-
-
-
-
-
-
-# netflix-clone-dio
-Projeto prático: "Recriando a Interface do Netflix", rrealizado durante o Bootcamp Capgemini Fullstack Java and Angular.
-
-
-
-
-
-
-
+https://www.linkedin.com/in/paucia-lisboa/
 
 ![GitHub watchers](https://img.shields.io/github/watchers/paucia-lisboa/netflix-clone-dio?style=social)
