@@ -4,13 +4,17 @@
 
 # Sobre o projeto
 
-Neste projeto prático iremos desenvolver uma solução de e-commerce com a arquitetura de microsserviços e aplicar a integração entre eles orientada a eventos com 
-Apache Kafka e garantir a compatibilidade entre da comunicação dos microsserviços com Schema Registry. Para isso, programaremos em Java utilizando a stack do 
-Spring (Spring Boot, Spring Cloud Streams).
+Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery a favor da sua aplicação.
 
 HTML | CSS | JavaScript | Git
 
 Front-End | Avançado
+
+![image](https://user-images.githubusercontent.com/122952406/213603460-113586cc-b67e-4626-b91e-16d94727d94c.png)
+
+##
+
+Quer ver como está ficando? Acesse [AQUI](https://paucia-lisboa.github.io/netflix-clone-dio/).
 
 ##
 
