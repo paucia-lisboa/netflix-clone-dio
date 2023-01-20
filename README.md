@@ -12,7 +12,7 @@ Front-End | Avançado
 
 ##
 
-<!--Quer ver como está ficando? Acesse [AQUI](https://paucia-lisboa.github.io/netflix-clone-dio/).-->
+Quer ver como está ficando? Acesse [AQUI](https://paucia-lisboa.github.io/netflix-clone-dio/).
 
 ##
 
