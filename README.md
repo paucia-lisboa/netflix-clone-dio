@@ -10,8 +10,6 @@ HTML | CSS | JavaScript | Git
 
 Front-End | Avançado
 
-![image](https://user-images.githubusercontent.com/122952406/213603460-113586cc-b67e-4626-b91e-16d94727d94c.png)
-
 ##
 
 Quer ver como está ficando? Acesse [AQUI](https://paucia-lisboa.github.io/netflix-clone-dio/).
